@@ -1,4 +1,4 @@
-### Binary to Decimal Converter using React
+# Binary to Decimal Converter using React
 
 ## To use it in your computer follow these steps
 
